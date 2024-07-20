@@ -19,7 +19,7 @@ const App = () => {
         <div className="min-h-screen bg-gray-100 flex flex-col justify-center items-center">
             <form
                 onSubmit={submitHandler}
-                className="w-full max-w-md p-8 bg-white rounded-lg shadow-md"
+                className="w-full max-w-md p-8 bg-white rounded-lg shadow-md "
             >
                 <h1 className="text-3xl font-bold mb-6 text-center text-gray-800">React Form</h1>
 
